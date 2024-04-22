@@ -13,6 +13,7 @@ class MyDocument extends Document {
         <Head>
           <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8425895904266381"
      crossorigin="anonymous"></script>
+          <meta name="google-adsense-account" content="ca-pub-8425895904266381">
           {/* <meta name="viewport" content="width=device-width,minimum-scale=1, initial-scale=1" /> */}
         </Head>
         <body>
